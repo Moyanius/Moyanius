@@ -2,7 +2,6 @@
 
 ## Soy estudiante y desarrollador de Software
 
-![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius)
 ![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)
 
 
