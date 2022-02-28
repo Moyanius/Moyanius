@@ -1,7 +1,7 @@
 ### ¡Hola a todos! Mi nombre es Jose Moyano - Moyanius 👋
 
 
-## Soy empreserario, estudiante ∞, desarrollador de Software.
+## Soy empreserario, estudiante ∞.
 
 
 ## 🔎 Mis estadisticas:
