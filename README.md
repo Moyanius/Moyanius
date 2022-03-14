@@ -1,9 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Jose Moyano - Moyanius 👋
 
 
-## Soy empreserario, estudiante ∞.
-
-
 ## 🔎 Mis estadisticas:
 ![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)
 
