@@ -1,5 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jose Moyano - Moyanius 👋
-
+<h1 align="center">Hi 👋, I'm Jose Moyano - Moyanius</h1>
 
 ## 🔎 Mis estadisticas:
 ![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)
