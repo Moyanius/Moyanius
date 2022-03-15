@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jose Moyano - Moyanius</h1>
+<h1 align="center">Hi 👋, I'm Jose Moyano - Moyanius  💻☕</h1>
 <h3 align="center">A passionate Junior Developer </h3>
 
 
+
+
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>    
     
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
