@@ -22,15 +22,6 @@
 <br />
 ---
 
-
-//__Cursos:__
-//<br />
-//<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
-//<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-//<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-//<br />
-
----
 [![Website](https://img.shields.io/website?down_color=blue&style=plastic&up_color=fuchsia&up_message=acceder&url=https%3A%2F%2Fwww.josemoyanojimenez.com%2F)](https://www.josemoyanojimenez.com)
 
 
