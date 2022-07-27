@@ -11,11 +11,11 @@
 </p>    
 
 
-<div align="center">
+
  ![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)
-</div>
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanius&show_icons=true&theme=radical)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanius&show_icons=true&theme=radical)
+
 
 [<img align="bottom" alt="capdesis.com" width="50px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
