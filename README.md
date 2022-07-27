@@ -11,7 +11,9 @@
 </p>    
 
 
-<div align="center">![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)</div>
+<div align="center">
+ ![José Moyano GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanius&show_icons=true&theme=radical)
+</div>
 <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanius&show_icons=true&theme=radical)
 </p>
 
