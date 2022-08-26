@@ -47,7 +47,7 @@
 
 ## 🎧 Spotify Playing
 
-[![Moyano Music](https://img.shields.io/badge/Moyano%20Developer%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4u3kAy0aS2STbVGL4qIR01) 
+[![Moyano Music](https://img.shields.io/badge/Moyano%20Developer%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/5b38n9ibylqu1jcctpj8w4tq5) 
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
